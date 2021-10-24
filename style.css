@@ -19,7 +19,7 @@ body {
 main {
   background: url('images/background.svg') no-repeat center/cover;
   width: 100vw;
-  height: 100vw;
+  height: 100vh;
   min-height: 812px;
   color: var(--gray);
 }
